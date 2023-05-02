@@ -95,7 +95,7 @@
     width: 8px;
     height: 8px;
     border: 4px solid #ffffff;
-    background-color: transparent;
+    background-color: #1d1d1d;
     border-radius: 100%;
     top: 50%;
     transform: translateY(-50%);
