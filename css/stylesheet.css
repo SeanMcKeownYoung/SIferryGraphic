@@ -17,6 +17,8 @@
     font-style: normal;
     font-smooth: always;
   }
+
+  /*! Font styles */
   h1 {
     font-family: 'tiempos_headlineblack', serif;
     font-size: 56px;
@@ -40,4 +42,13 @@
     text-transform: uppercase; 
     padding-bottom: 50px;
     color: #075d8f;
+  }
+  header {
+    max-width: 930px; 
+	margin: 0 auto !important; 
+	float: none !important; 
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
   }
