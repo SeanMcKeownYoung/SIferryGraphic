@@ -1,0 +1,43 @@
+/*! Fonts */
+
+@font-face {
+    font-family: 'tiempos_headlineblack';
+    src: url('tiempos_headline-black-webfont.woff2') format('woff2'),
+         url('css/tiempos_headline-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-smooth: always;
+  }
+  
+  @font-face {
+    font-family: 'benton_sansregular';
+    src: url('bentonsans-regular_sot-webfont.woff2') format('woff2'),
+         url('css/bentonsans-regular_sot-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-smooth: always;
+  }
+  h1 {
+    font-family: 'tiempos_headlineblack', serif;
+    font-size: 56px;
+    color: black;
+    }
+  
+  h2 {
+    font-family: 'tiempos_headlineblack', serif;
+    font-size: 22px;
+    color: black;
+  }
+  h3 {
+    font-family: 'benton_sansregular', sans-serif;
+    font-size: 16px;
+    line-height: 34px;
+    color: black;
+  }
+  h4 {
+    font-family: 'benton_sansbold', sans-serif;
+    font-size: 16px;
+    text-transform: uppercase; 
+    padding-bottom: 50px;
+    color: #075d8f;
+  }
